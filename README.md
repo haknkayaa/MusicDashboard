@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Awesome Badge"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Awesome Badge"/><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Awesome Badge"/>
 
 
-
+    Note: Bu proje tamamen bitmedi. ama yine de fikir için paylaşmaya değer.
 
 Hello, this study is an output of the C++ and Qt Development Training I have presented.
 
